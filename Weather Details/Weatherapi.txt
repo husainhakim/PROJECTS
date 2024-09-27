@@ -1,4 +1,0 @@
-```Weather API```
-Build a weather API that fetches and returns weather data.
-
-Instead of using personal API i am going to use 3rd party API's
