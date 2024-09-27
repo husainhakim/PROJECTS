@@ -41,3 +41,12 @@ This Python script is a simple number guessing game where the player attempts to
 
 <h3>Output 2:</h3>
 <img src="Output1.png" alt="Output 2" width="600"/>
+
+
+# Contact
+
+For any questions or feedback, please contact:
+
+•	Name: Husain Hakim <br>
+•	Email: husain.m.hakim.533@gmail.com<br>
+•	GitHub: <a href="https://github.com/husainhakim">husainhakim</a>
