@@ -27,6 +27,8 @@ This Python script allows you to send WhatsApp messages to a specified phone num
 
 # Example Output:
 Output:
-<img src="Output.png" alt="Output" width="600" >
-Result:
-<img src="Result.png" alt="Result" width="600" >
+
+<img src="Output.png" alt="Output" width="600" />
+
+Result:<br>
+<img src="Result.png" alt="Result" width="600"/>
