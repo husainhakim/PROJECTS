@@ -23,19 +23,16 @@ This Python script allows users to get real-time weather information for any cit
 <h3> Enter the name of any city when prompted.</h3>
 
 # Example Output:
-Enter the name of the city to find its Weather details: Mumbai
-
-Name: Mumbai
-Weather Description: Clear, clear sky <br>
-Division: Mumbai<br>
-Temp (°C): 30.5<br>
-Feels like (°C): 33.2<br>
-Humidity: 70<br>
+<h3>Output 1:</h3>
+<img src="Output1.png" alt="Output 1" width="600"/>
+<h3>Output 2:</h3>
+<img src="Output2.png" alt="Output 1" width="600"/>
 
 # Error Handling:
 
-	•	If the city name is incorrect, the script will prompt you to enter it again.
-	•	Handles errors gracefully if the city is not found.
+•	If the city name is incorrect, the script will prompt you to enter it again.
+
+•	Handles errors gracefully if the city is not found.
 
 # License:
 
