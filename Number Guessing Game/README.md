@@ -36,4 +36,8 @@ This Python script is a simple number guessing game where the player attempts to
 5.	If you run out of attempts, the game will reveal the correct number.
 
 # Example Output
-<img src="/Output1.png">
+<h3>Output 1:</h3>
+<img src="Output2.png" alt="Output 1" width="600"/>
+
+<h3>Output 2:</h3>
+<img src="Output1.png" alt="Output 2" width="600"/>
