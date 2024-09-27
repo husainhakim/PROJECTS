@@ -37,3 +37,11 @@ This Python script allows users to get real-time weather information for any cit
 # License:
 
 <h4> This project is open source and available under the MIT License.</h4>
+
+# Contact
+
+For any questions or feedback, please contact:
+
+•	Name: Husain Hakim <br>
+•	Email: husain.m.hakim.533@gmail.com<br>
+•	GitHub: <a href="https://github.com/husainhakim">husainhakim</a>
